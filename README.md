@@ -1,5 +1,5 @@
-# unilever-sales-dashboard
-
+# Unilever Sales Analytics
+<img src="/excel-dashboard.png?raw=true"/>
 
 ## What is this project?
 This project used the [Unilever Sales Dataset](https://www.kaggle.com/datasets/zohairbaloch/unilever-retail-sales-dataset) to answer the question from the sales manager: How was sales performance over the last 7-day? The output was an interactive dashboard visualizing the overall health metrics, as well as the sales revenue breakdown across channels/categories/product lines.
