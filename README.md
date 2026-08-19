@@ -1,4 +1,5 @@
 # Unilever Sales Analytics
+<img width="1836" height="920" alt="image" src="https://github.com/user-attachments/assets/4ce7bd5d-a206-4a70-bd52-f415ad2a5289" />
 <img src="/excel-dashboard.png?raw=true"/>
 
 ## What is this project?
